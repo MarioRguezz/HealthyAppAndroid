@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/marioalbertonegreterodriguez/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/marioalbertonegreterodriguez/AndroidstudioProjects/HealthyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0521414773496f71fee297260f791bfb86d7bc83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marioalbertonegreterodriguez/.android/build-cache/454cc2c7dc2c8a98fe2f411026b8e2efcb45fdb5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/marioalbertonegreterodriguez/AndroidstudioProjects/HealthyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05eed48b9002dd0938151f56491f7b0bfa3229fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marioalbertonegreterodriguez/.android/build-cache/a600a5ee0e67fd2cd89b55f542272efdb85aa631/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/marioalbertonegreterodriguez/AndroidstudioProjects/HealthyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f7b797f9f40e07ac2c2864cc5a15b98ebba525b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marioalbertonegreterodriguez/.android/build-cache/82fa0a98f91d0781c8b8058956d0f0508f95e82c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/marioalbertonegreterodriguez/AndroidstudioProjects/HealthyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_757dd7bd57460138841e6a0b1010f140474bbbeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marioalbertonegreterodriguez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/marioalbertonegreterodriguez/AndroidstudioProjects/HealthyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_db1cbe4a83686546d8b8965b786bb2746d6736e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marioalbertonegreterodriguez/AndroidstudioProjects/HealthyApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="351ebd1a39855f6bcd865f7b99faddf88d5e1da8">
+        <dex dex="/Users/marioalbertonegreterodriguez/AndroidstudioProjects/HealthyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b71de79b03c288b22371781532f20ed81bb76511/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marioalbertonegreterodriguez/AndroidstudioProjects/HealthyApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/marioalbertonegreterodriguez/AndroidstudioProjects/HealthyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_586f1eb2f76b69885b440507d08c93b9aeabfbe8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marioalbertonegreterodriguez/.android/build-cache/a600a5ee0e67fd2cd89b55f542272efdb85aa631/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/marioalbertonegreterodriguez/AndroidstudioProjects/HealthyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_66019f62fefa605369cc3f376f8b24e1f73dcefb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marioalbertonegreterodriguez/.android/build-cache/60049dd27947db7f01e795d1f308b74d36eb0e4e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/marioalbertonegreterodriguez/AndroidstudioProjects/HealthyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ea070c1fc121918c5e5df2fa6f327a864bdb9fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marioalbertonegreterodriguez/.android/build-cache/6241248af0fff39047366015afb1c80f6a0c5082/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/marioalbertonegreterodriguez/AndroidstudioProjects/HealthyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22354b4c0024b749198768d0235a051f6be48013/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marioalbertonegreterodriguez/.android/build-cache/8720322d34b996d50dadb6bc2dc7c5e7c67195ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/marioalbertonegreterodriguez/AndroidstudioProjects/HealthyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea2ed66c17a7d343d2e805c22370f413d3944d71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marioalbertonegreterodriguez/.android/build-cache/7161c2a5d2e70f7dd89a57ce773ca8b2ef492bc5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/marioalbertonegreterodriguez/AndroidstudioProjects/HealthyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f6e59899331dad4eaae7554e9ab40e464157bd8/classes.dex" />
+    </item>
+
+</items>
